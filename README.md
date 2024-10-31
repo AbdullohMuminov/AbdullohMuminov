@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulloh
 - 👀 I’m interested in IT business
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning mobile development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muminovabdullokh@gmail.com
 - 😄 Pronouns: ...
